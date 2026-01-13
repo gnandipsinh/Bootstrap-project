@@ -41,15 +41,25 @@ This project focuses on **luxury UI design**, smooth layouts, and professional s
 ```
 
 Range-Rover-Website/
+<br/>
 │
-├── index.html        → Main HTML file
-├── style.css         → Custom CSS styling
-├── img/              → Images & video files
+<br/>
+├── index.html
+<br/>
+├── style.css
+<br/>
+├── img/
+<br/>
 │   ├── rangerover.mp4
+<br/>
 │   ├── img2.avif
+<br/>
 │   └── img3.avif
+<br/>
 │
-└── README.md         → Project documentation
+<br/>
+└── README.md
+<br/>
 
 ```
 
